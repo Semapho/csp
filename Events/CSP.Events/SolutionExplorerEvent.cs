@@ -21,6 +21,7 @@ namespace CSP.Events
             private string _name;
             private string _path;
 
+
             public Model() {
             }
 
